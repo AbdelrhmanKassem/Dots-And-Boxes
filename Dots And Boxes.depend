@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1575835578 source:d:\uni\subjects\programming\projects\dots and boxes\grid.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"game.h"
+
+1575926080 source:d:\uni\subjects\programming\projects\dots and boxes\menus.c
+	"game.h"
+
+1575926080 source:d:\uni\subjects\programming\projects\dots and boxes\main.c
+	"game.h"
+
+1575835738 source:d:\uni\subjects\programming\projects\dots and boxes\game.h
+	<stdio.h>
+	<stdlib.h>
+
+1575926432 d:\uni\subjects\programming\projects\dots and boxes\game.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1575923798 source:d:\uni\subjects\programming\projects\dots and boxes\game_logic.c
+	"game.h"
+
