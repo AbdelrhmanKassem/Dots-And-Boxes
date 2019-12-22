@@ -1,26 +1,98 @@
 # depslib dependency file v1.0
-1575835578 source:d:\uni\subjects\programming\projects\dots and boxes\grid.c
-	<stdio.h>
-	<stdlib.h>
-	<stdbool.h>
+1576621579 source:d:\csed\programming\dots and boxes\game_logic.c
 	"game.h"
 
-1575926080 source:d:\uni\subjects\programming\projects\dots and boxes\menus.c
-	"game.h"
-
-1575926080 source:d:\uni\subjects\programming\projects\dots and boxes\main.c
-	"game.h"
-
-1575835738 source:d:\uni\subjects\programming\projects\dots and boxes\game.h
-	<stdio.h>
-	<stdlib.h>
-
-1575926432 d:\uni\subjects\programming\projects\dots and boxes\game.h
+1576525397 d:\csed\programming\dots and boxes\game.h
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
 	<time.h>
+	<string.h>
+	<ctype.h>
 
-1575923798 source:d:\uni\subjects\programming\projects\dots and boxes\game_logic.c
+1576525397 source:d:\csed\programming\dots and boxes\main.c
+	"game.h"
+
+1576618445 source:d:\csed\programming\dots and boxes\menus.c
+	"game.h"
+
+1576529887 source:d:\csed\programming\dots and boxes\files_mangment.c
+	"game.h"
+
+1576790196 source:d:\uni\subjects\programming\projects\dots and boxes\game_logic.c
+	"game.h"
+
+1576525397 d:\uni\subjects\programming\projects\dots and boxes\game.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1576790289 source:d:\uni\subjects\programming\projects\dots and boxes\main.c
+	"game.h"
+
+1576789747 source:d:\uni\subjects\programming\projects\dots and boxes\menus.c
+	"game.h"
+
+1576790445 source:d:\uni\subjects\programming\projects\dots and boxes\files_mangment.c
+	"game.h"
+
+1576790445 source:e:\new folder (3)\dots and boxes\files_mangment.c
+	"game.h"
+
+1576525397 e:\new folder (3)\dots and boxes\game.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1576790580 source:e:\new folder (3)\dots and boxes\game_logic.c
+	"game.h"
+
+1576790289 source:e:\new folder (3)\dots and boxes\main.c
+	"game.h"
+
+1576789747 source:e:\new folder (3)\dots and boxes\menus.c
+	"game.h"
+
+1576790445 source:f:\dots and boxes source\files_mangment.c
+	"game.h"
+
+1576525397 f:\dots and boxes source\game.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1576881121 source:f:\dots and boxes source\game_logic.c
+	"game.h"
+
+1576790289 source:f:\dots and boxes source\main.c
+	"game.h"
+
+1576870787 source:f:\dots and boxes source\menus.c
+	"game.h"
+
+1576881121 source:d:\uni\subjects\programming\projects\dots and boxes source\dots and boxes source\game_logic.c
+	"game.h"
+
+1576525397 d:\uni\subjects\programming\projects\dots and boxes source\dots and boxes source\game.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1576790289 source:d:\uni\subjects\programming\projects\dots and boxes source\dots and boxes source\main.c
+	"game.h"
+
+1576933109 source:d:\uni\subjects\programming\projects\dots and boxes source\dots and boxes source\menus.c
 	"game.h"
 

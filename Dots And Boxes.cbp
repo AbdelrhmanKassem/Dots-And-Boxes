@@ -31,6 +31,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Files_Mangment.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Menus.c">
 			<Option compilerVar="CC" />
 		</Unit>
