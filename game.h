@@ -81,6 +81,7 @@ void sort_top10 (void);
 void load_top10 (void);
 void save_top10 (void);
 void print_top10 (void);
+void print_DotsAndBoxes (void);
 
 
 

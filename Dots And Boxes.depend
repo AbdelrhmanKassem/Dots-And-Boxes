@@ -19,7 +19,7 @@
 1576529887 source:d:\csed\programming\dots and boxes\files_mangment.c
 	"game.h"
 
-1576790196 source:d:\uni\subjects\programming\projects\dots and boxes\game_logic.c
+1576881121 source:d:\uni\subjects\programming\projects\dots and boxes\game_logic.c
 	"game.h"
 
 1576525397 d:\uni\subjects\programming\projects\dots and boxes\game.h
@@ -33,10 +33,10 @@
 1576790289 source:d:\uni\subjects\programming\projects\dots and boxes\main.c
 	"game.h"
 
-1576789747 source:d:\uni\subjects\programming\projects\dots and boxes\menus.c
+1576933109 source:d:\uni\subjects\programming\projects\dots and boxes\menus.c
 	"game.h"
 
-1576790445 source:d:\uni\subjects\programming\projects\dots and boxes\files_mangment.c
+1576933365 source:d:\uni\subjects\programming\projects\dots and boxes\files_mangment.c
 	"game.h"
 
 1576790445 source:e:\new folder (3)\dots and boxes\files_mangment.c
@@ -94,5 +94,22 @@
 	"game.h"
 
 1576933109 source:d:\uni\subjects\programming\projects\dots and boxes source\dots and boxes source\menus.c
+	"game.h"
+
+1576933365 source:d:\uni\old\term 3\subjects\programming\projects\dots and boxes\files_mangment.c
+	"game.h"
+
+1580525611 d:\uni\old\term 3\subjects\programming\projects\dots and boxes\game.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1576881121 source:d:\uni\old\term 3\subjects\programming\projects\dots and boxes\game_logic.c
+	"game.h"
+
+1576790289 source:d:\uni\old\term 3\subjects\programming\projects\dots and boxes\main.c
 	"game.h"
 
